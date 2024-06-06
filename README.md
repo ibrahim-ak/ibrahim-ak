@@ -1,5 +1,5 @@
-### Hi there 👋, I'm *ibrahim khalil*
-#### Full stack developer to be
+### Hi there 👋, I'm *Ibrahim Khalil*
+#### Full stack developer 
 ![Full stack developer to be](https://gifdb.com/images/high/happy-cat-working-on-computer-cartoon-c2cinzv2rijwf3en.gif)
 
 Hey there, I'm Ibrahim Khalil, and I'm stepping into the world of full stack development. I thrive on the challenge of creating seamless digital experiences that make a difference.
