@@ -6,7 +6,7 @@ Hey there, I'm Ibrahim Khalil, and I'm stepping into the world of full stack dev
 
 Whether it's refining user interfaces or architecting robust backend solutions, I'm fully invested in mastering the art of coding to turn concepts into reality. This journey is an open road, and I'm eager to uncover all the opportunities it holds.
 
-Skills: Python / JS / HTML / CSS
+Skills: Python/Django Java/SpringBoot /MERN  / JS / HTML / CSS /
 
 - 🔭 I’m currently working on this page. 
 
